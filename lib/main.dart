@@ -56,7 +56,7 @@ class _MyAppState extends State<MainApp> {
       ),
       home: Scaffold(
         appBar: AppBar(
-          title: const Text("⌚ WatchOS Messaging"),
+          title: const Text("WatchOS Messaging"),
           centerTitle: true,
           elevation: 0,
         ),
